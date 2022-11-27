@@ -7,6 +7,10 @@ In continious move provider :
 #### Set the type of interaction we wannt.
 ### interactable
 #### How the object will answer to the interaction.
+##### Add XR grab interactable : ####### Movement type Velocity 
+#### Three Types : #####  Kinematic, Instantaneous, and Velocity Tracking.
+##### Creation of Attach point
+#### using UnityEngine.XR.Interaction.Toolkit;
 
   
   
